@@ -135,7 +135,7 @@ h3{
     margin: -500px 0px 0px 1100px;
 }
 .face1{
-    position: relative;
+    position: absolute;
     width: 250px;
     height: 250px;
     background-color: #ffeb3b;
@@ -145,6 +145,7 @@ h3{
     align-items: center;
     flex-direction: column;
     margin: -310px 0px 0px 655px;
+    
 }
 
 .eye {
